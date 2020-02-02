@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  epic_tradegy[:montague][:hero][:status => "dead"]
+  contacts[""][:favorite_ice_cream_flavors] => "dead"
   epic_tradegy[:capulet][:heroine][:status => "dead"]
   
 

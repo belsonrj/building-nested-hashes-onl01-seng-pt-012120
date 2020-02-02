@@ -22,7 +22,7 @@ def bonus
 
   epic tragedy["hero"][:status] => "dead"
   epic_tradegy[:heroine][:status] => "dead"
-  end
+  
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy

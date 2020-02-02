@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  contacts[""][:favorite_ice_cream_flavors] => "dead"
+  epic tragedy["hero"][:status] => "dead"
   epic_tradegy[:capulet][:heroine][:status => "dead"]
   
 
